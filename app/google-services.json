@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1011480068075",
+    "firebase_url": "https://fir-testa.firebaseio.com",
+    "project_id": "fir-testa",
+    "storage_bucket": "fir-testa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011480068075:android:5b87ab6a645988f0",
+        "android_client_info": {
+          "package_name": "aarin.test.kr.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011480068075-nsrqb42gn30r23rln21egq7atvhadgd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpasIMUw8atY-1kNYg2P87OxUqld-7gYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
